@@ -55,7 +55,7 @@ endfunction
 
 function! zoom#statusline()
   if s:is_zoomed()
-    return get(g:, 'zoom#statustext', 'zoomed')
+    return get(g:, 'zoom#statustext', '🔍')
   endif
   return ''
 endfunction
