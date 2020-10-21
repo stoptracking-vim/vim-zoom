@@ -2,7 +2,7 @@
 
 A simple plugin to toggle zoom of current window within the current tab.
 
-This is heavily inspired from tmux's zoom pane feature.
+This is heavily inspired from tmux's zoom pane feature and _this_ repository is a fork.
 
 ## Installation
 
